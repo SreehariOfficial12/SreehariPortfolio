@@ -29,5 +29,12 @@ Hope you like it.
 Made with love by sreehari to join devcom iit bombay team.
 
 
+HOW TO RUN THIS CODE ?
+
+1. You can downlaod this repository locally on your machine and run index.html you can see the output or 
+2. I published this site online you can open this link [SreehariPortfolio](https://sreehariofficial12.github.io/SreehariPortfolio/)
+
+
+
 
 
