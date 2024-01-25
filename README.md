@@ -22,7 +22,7 @@ Even Though it is template you have to understand it to change it I understood w
 6.Including required hyperlinks
 
 
-That what i want to tell . When making this project i ran into so many error I solved them one by one and now the website is finally here.
+Thats what i want to tell . When making this project i ran into so many error I solved them one by one and now the website is finally here.
 
 Hope you like it.
 
