@@ -32,7 +32,7 @@ Made with love by sreehari to join devcom iit bombay team.
 HOW TO RUN THIS CODE ?
 
 1. You can downlaod this repository locally on your machine and run index.html you can see the output or 
-2. I published this site online you can check by opening this link [SreehariPortfolio](https://sreehariofficial12.github.io/SreehariPortfolio/)
+2. I published this site online you can check by opening this link [SreehariPortfolio](https://sreeharix.github.io/SreehariPortfolio/)
 
 
 
